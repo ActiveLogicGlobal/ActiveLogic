@@ -1,9 +1,9 @@
 # Knowledge Point
-**Platform: **Java
+*Platform: * Java
 
-**Database: **Derby
+*Database: *Derby
 
-##Description:
+Description:
 A desktop application to narrow the communication gap between the teachers and students.
 
 ##Sailent Features:
